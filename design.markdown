@@ -10,7 +10,7 @@ title: Design
 
 ### Body
 
-Creating our robot we put a great deal of effort in prototyping it on a computer. The initial 3D models were produced in __SolidWorks 3D__. Decomposed body model and its description can be seen here.
+We put a great deal of effort in computer aided prototyping. The initial 3D models were produced in __SolidWorks 3D__. Decomposed body model and its description can be seen here.
 
 <table class="table table-striped table-hover ">
   <thead>
@@ -59,7 +59,7 @@ Creating our robot we put a great deal of effort in prototyping it on a computer
 
 ### Legs
 
-One of the biggest challenges of designing the robot was designig its leg. We tried to keep the parts as light as possible while maintainig a certain level of robustness. The leg consists of three servo motors which give the endpoint of the lower leg three degrees of freedom. The two servo motors closest to the body were bundeled together in a 3D printed plastic frame to ensure precision of movement of the leg.
+One of the biggest challenges of designing the robot was designig its leg. We tried to keep the parts as light as possible while maintainig a certain level of robustness. The leg consists of three servo motors which give the endpoint of the lower leg three degrees of freedom. The two servo motors closest to the body were bundled together in a 3D printed plastic frame to ensure precision of movement of the leg.
 <table class="table table-striped table-hover ">
   <thead>
    <tr>

@@ -10,7 +10,7 @@ title: Construction
 ### Aluminium parts
 
 <p>
-Most of the parts are cut from an aluminuim board with water-jet CNC machine. The blueprint for cutting is shown on the right. We carefully chose aluminium as the basic material for the skeleton because of his good properties such as lightness, hardness, attractive look and low chemical reactivness.
+Most of the parts are cut from an aluminuim board with water-jet CNC machine. The blueprint for cutting is shown on the right. We carefully chose aluminium as the basic material for the skeleton because of his good properties such as lightness, hardness, attractive look and low chemical reactivity.
 </p>
 </div>
 
@@ -46,7 +46,7 @@ As mentiond in the <a href="/design.html">Design</a> section, we used 3D printer
 <img class="img-responsive img-rounded" src="images/plastic_model.png" alt="">
 <div class="row">
 <div class="col-md-5">
-<img class="img-responsive img-rounded" src="images/plastic.jpg" alt="Pplastic part">
+<img class="img-responsive img-rounded" src="images/plastic.jpg" alt="plastic part">
 </div>
 <div class="col-md-7">
 <img class="img-responsive img-rounded" src="images/plastic_parts.jpg" alt="Plastic parts">
@@ -193,7 +193,7 @@ The picture on the right shows Arduino compatible Iduino DUE microcontroller. Th
 ### Bluetooth module 
 
 <p>
-The picture on the right shows the bluetooth module. This enables the robot to establish a serial communication wtih the virtual controller on the Android device. 
+The picture on the right shows the bluetooth module. This enables the robot to establish a serial communication with the virtual controller on the Android device. 
 </p>
 <p>
 <div class="row">

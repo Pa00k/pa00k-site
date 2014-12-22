@@ -12,7 +12,7 @@ title: Team
 </div>
 <p>**Codes in:** C, C++, Matlab</p>
 <p>**Platforms:** Linux</p>
-<p>**Responible for:** walking algorithm, gait engine, hardware realisation of the robot</p>
+<p>**Responsible for:** walking algorithm, gait engine, hardware realisation of the robot</p>
 <p>**GitHub:** [epicfoox](https://github.com/epicfoox)</p>
 <p>**Contact:** lukafucek11@gmail.com</p>
 
@@ -27,7 +27,7 @@ title: Team
 
 <p>**Codes in:** C, Java, Scala, Haskell</p>
 <p>**Platforms:** Linux, Android</p>
-<p>**Responible for:** virutal controller, bluetooth communication, this website</p>
+<p>**Responsible for:** virutal controller, bluetooth communication, this website</p>
 <p>**GitHub:** [yossarin](https://github.com/yossarin)</p>
 <p>**Contact:** vlatko.klabucar@gmail.com</p>
 
@@ -40,7 +40,7 @@ title: Team
 </div>
 <p>**Codes in:** C, C++, Matlab</p>
 <p>**Platforms:** Linux</p>
-<p>**Responible for:** mathematical modeling and prototyping, smart servo control, logistics, manufacturing of hardware components</p>
+<p>**Responsible for:** mathematical modeling and prototyping, smart servo control, logistics, manufacturing of hardware components</p>
 <p>**Contact:** antun.vukicevic@fer.hr</p>
 </div>
 
@@ -51,7 +51,7 @@ title: Team
 </div>
 <p>**Codes in:** C, Matlab</p>
 <p>**Platforms:** Linux</p>
-<p>**Responible for:** mathematical modeling and prototyping, 3D modeling, assembly</p>
+<p>**Responsible for:** mathematical modeling and prototyping, 3D modeling, assembly</p>
 <p>**GitHub:** [GreenSCV](https://github.com/GreenSCV)</p>
 <p>**Contact:** josip.vukicevic@fer.hr</p>
 

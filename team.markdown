@@ -38,10 +38,9 @@ title: Team
 <img class="img-circle" src="/images/toni.jpg" alt="Antun" style="width: 140px; height: 140px;">
 <h2>Antun Vukičević</h2>
 </div>
-<p>**Codes in:** C, Matlab</p>
+<p>**Codes in:** C, C++, Matlab</p>
 <p>**Platforms:** Linux</p>
-<p>**Responible for:** mathematical modeling and prototyping, logistics, manufacturing of hardware components</p>
-<p>**GitHub:** []()</p>
+<p>**Responible for:** mathematical modeling and prototyping, smart servo control, logistics, manufacturing of hardware components</p>
 <p>**Contact:** antun.vukicevic@fer.hr</p>
 </div>
 

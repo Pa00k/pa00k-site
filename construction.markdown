@@ -38,7 +38,7 @@ Most of the parts are cut from an aluminuim board with water-jet CNC machine. Th
 ### 3D printed plastic parts
 
 <p>
-As mentiond in the <a href="/design.html">Design</a> section, we used 3D printer provided by our <a href="http://www.unizg.fer.hr">university</a> to make the frames for the hips of the legs. We couldn't do this with aluminium because the shape (on the right) is too complex. 3D printed parts are shown on the images below.
+As mentiond in the <a href="/design.html">Design</a> section, we used 3D printer provided by our <a href="https://www.fer.unizg.hr">university</a> to make the frames for the hips of the legs. We couldn't do this with aluminium because the shape (on the right) is too complex. 3D printed parts are shown on the images below.
 </p>
 </div>
 
